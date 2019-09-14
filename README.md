@@ -22,3 +22,10 @@ INSERT INTO `event` (`id`, `description`, `date_start`, `date_end`) VALUES (23, 
 
 SET FOREIGN_KEY_CHECKS=1;
 ```
+
+### Related Links
+* https://www.sromku.com/blog/datastore-sql-migration
+* https://www.quora.com/How-do-I-migrate-from-MySQL-to-Google-Datastore
+* https://groups.google.com/forum/#!topic/google-cloud-sql-discuss/HmzfqRxBfVU
+* https://link.medium.com/J5JZQI8oYZ
+* https://cloud.google.com/sql/docs/mysql/import-export/importing
