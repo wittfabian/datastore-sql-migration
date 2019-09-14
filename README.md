@@ -2,13 +2,14 @@
 
 ![](https://miro.medium.com/max/928/1*e--cLrtZtPqLOW2NGT2EEQ.png)
 
-### Example
+### Description
 1. Clone https://github.com/wittfabian/datastore-sql-migration
 2. Install requirements: `pip install -r requirements.txt`
 2. Create google cloud credentials (https://cloud.google.com/docs/authentication/getting-started)
 3. Replace `GOOGLE_APPLICATION_CREDENTIALS.json` with our generated credentials
 3. Open `main.py` and update the parameters
-4. This is what will you see:
+4. Run `main.py`
+5. This is what will you see:
 ```
 SET FOREIGN_KEY_CHECKS=0;
 
